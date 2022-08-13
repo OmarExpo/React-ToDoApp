@@ -1,7 +1,7 @@
-#todoApp-in-react 
+# todoApp-in-react 
 
 
-##Simple To Do App in React
+## Simple To Do App in React
 
 
 Used & practiced the following features among others:
