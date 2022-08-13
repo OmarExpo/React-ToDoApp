@@ -3,7 +3,7 @@
 
 ## Simple To Do App in React
 
-
+<br/>
 Used & practiced the following features among others:
 
 Components (stateful & stateless)
@@ -22,5 +22,5 @@ Created 'Add notes' and 'Remove notes' functionalities
 
 and more ...
 
-
+<br/>
 Thank you for visiting 6 checking out.
